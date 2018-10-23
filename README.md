@@ -21,6 +21,7 @@ All the 5 criterias can get as values numbers from 0 to 5 in 0.5 steps. So a val
 Calculate out of these values an objective overall rating in %.
 
 Your task is:
+
 1. Create your working environment with Node.js, Meteor and Vuetify. The following links should support you: https://www.meteor.com/install, https://github.com/Akryum/meteor-vue-example, https://vuetifyjs.com/en/getting-started/quick-start
 
 2. Create the frontend with Vuetify components which are similar to kpis.png (c.f. https://vuetifyjs.com/en/components/cards, https://vuetifyjs.com/en/components/selects#introduction)
